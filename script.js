@@ -1,7 +1,7 @@
 var one= document.getElementById ("second")
 var two= document.getElementById ("third")
 var three= document.getElementById ("fourth")
-var water= document.getElementById ("waves")
+var water= document.getElementById ("music")
 
 
 function imageone(){
