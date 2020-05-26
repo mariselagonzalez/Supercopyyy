@@ -1,6 +1,8 @@
 var one= document.getElementById ("second")
 var two= document.getElementById ("third")
 var three= document.getElementById ("fourth")
+var water= document.getElementById ("waves")
+
 
 function imageone(){
 	one.classList.remove("hide");
@@ -10,4 +12,5 @@ function imagetwo(){
 }
 function imagethree(){
 	three.classList.remove("hide");
+	water.play();
 }
