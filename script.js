@@ -13,5 +13,4 @@ function imagetwo(){
 function imagethree(){
 	three.classList.remove("hide");
 	document.getElementById(“music”).play();
-
 }
